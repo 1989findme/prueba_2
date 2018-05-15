@@ -1,0 +1,4 @@
+El promedio de, David, 3.6
+El promedio de, Gonzalo, 4.2
+El promedio de, Mai, 7.6
+El promedio de, JP, 10.0
